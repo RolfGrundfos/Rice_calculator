@@ -1,5 +1,6 @@
 streamlit==1.37.1
 pandas==2.2.2
-plotly==5.17.0
+plotly>=5.17.0
+kaleido
 gspread==6.2.1
 google-auth==2.40.3
